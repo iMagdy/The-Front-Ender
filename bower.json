@@ -1,10 +1,10 @@
 {
-  "name": "Front Ender (Web App Foundation for Front ending)",
+  "name": "The Front Ender (Web App Foundation for Front ending)",
   "version": "1.0.0",
   "authors": [
     "Islam Magdy <i.magdy.m@gmail.com>"
   ],
-  "description": "The necessary tools and packages for starting front ending project, it is automated by Gulp and has sass compilation, gzip, uglify, concating, css minify,..",
+  "description": "The necessary setup and packages for starting front ending project, it is automated by Gulp and has sass compilation, gzip, uglify, concating, css minify,..",
   "main": "index.html",
   "moduleType": [
     "amd",
